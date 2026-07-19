@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lokmanosky.github.io/daftarkom/sitemap.xml
